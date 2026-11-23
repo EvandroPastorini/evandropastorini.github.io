@@ -1,0 +1,12 @@
+:root { --fundo: #121212; --texto: #F4F1DE; --apagado: #9A978A; --ouro: #FCBF49; --vermelho: #E63946; }
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--fundo); color: var(--texto); font: 17px/1.6 "DM Sans", system-ui, sans-serif; }
+main { max-width: 720px; margin: 0 auto; padding: 32px 16px 64px; }
+.faixa { height: 10px; background: linear-gradient(var(--vermelho) 0 50%, var(--ouro) 50%); }
+h1 { font-family: Righteous, sans-serif; font-weight: 400; font-size: 34px; line-height: 1.1; margin: 16px 0 8px; }
+h1 b { color: var(--ouro); font-weight: 400; }
+h2 { font-family: Righteous, sans-serif; font-weight: 400; font-size: 22px; color: var(--ouro); margin: 32px 0 8px; }
+a { color: var(--ouro); }
+.muted { color: var(--apagado); font-size: 15px; }
+img.icone { width: 96px; height: 96px; border-radius: 22px; }
+ul { padding-left: 20px; }
