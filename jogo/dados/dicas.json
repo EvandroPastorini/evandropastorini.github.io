@@ -1,0 +1,1267 @@
+{
+  "_sobre": "Dicas de cada filme. 'dicas': a do letreiro, antes do filme (a mais difícil). 'extras': 4 dicas que o jogador libera assistindo a um anúncio, da mais difícil para a mais fácil. Regra: nunca usar palavras do título.",
+  "dicas": {
+    "titanic": "Nem todo 'para sempre' chega ao destino.",
+    "rei-leao": "Quem foge do passado acaba tendo que encará-lo.",
+    "jurassic-park": "Só porque dá pra fazer, não quer dizer que deva.",
+    "de-volta-para-o-futuro": "Chegar atrasado nunca foi tão grave.",
+    "procurando-nemo": "Superproteção tem limite?",
+    "harry-potter-1": "Às vezes um aniversário muda tudo.",
+    "matrix": "Você tem certeza de que acordou hoje?",
+    "toy-story": "Ciúme do colega novo no trabalho.",
+    "shrek": "Morar sozinho é ótimo até a casa encher de visita.",
+    "senhor-dos-aneis-1": "Às vezes o menor da turma carrega o peso maior.",
+    "cidade-de-deus": "Crescer onde as escolhas são poucas.",
+    "tropa-de-elite": "O sistema é maior do que parece.",
+    "central-do-brasil": "Uma viagem que começa por interesse e termina por afeto.",
+    "et": "Saudade de casa não tem tamanho nem distância.",
+    "tubarao": "O medo do que está embaixo de você.",
+    "poderoso-chefao": "Você prioriza a família?",
+    "star-wars-4": "Sonhar com o horizonte enquanto ajuda os tios em casa.",
+    "forrest-gump": "Quem disse que precisa entender a história para fazer parte dela?",
+    "vingadores": "Trabalho em equipe com egos enormes.",
+    "frozen": "O amor verdadeiro nem sempre é o do príncipe.",
+    "piratas-do-caribe-1": "Não confie em quem sempre tem um plano… que nunca dá certo.",
+    "indiana-jones-1": "Aula de história com muita correria.",
+    "exterminador-2": "O que era ameaça agora quer te proteger.",
+    "esqueceram-de-mim": "Ficar sozinho em casa é o sonho de toda criança… até não ser.",
+    "up": "Nunca é tarde para cumprir uma promessa.",
+    "interestelar": "O tempo é o que você menos tem.",
+    "avatar": "Trocar de lado pode ser a coisa certa.",
+    "coringa": "Quando ninguém escuta, alguém grita mais alto.",
+    "os-incriveis": "Aposentadoria forçada não combina com quem nasceu pra isso.",
+    "homem-aranha": "Estudar, trabalhar e salvar o dia, tudo antes do jantar.",
+    "bela-e-a-fera": "Ler muito ainda vai te levar longe.",
+    "ghost": "Um amor que não termina nem quando acaba.",
+    "uma-linda-mulher": "Um contrato que virou romance.",
+    "mudanca-de-habito": "Fingir ser quem não é pode dar ótimo resultado.",
+    "os-goonies": "Uma última aventura antes que tudo mude.",
+    "curtindo-a-vida-adoidado": "Matar aula com estilo.",
+    "ratatouille": "Ninguém quer o seu talento quando sabe de onde você veio.",
+    "monstros-sa": "Embaixo da cama tem mais medo do que em cima.",
+    "divertida-mente": "Às vezes ficar triste é necessário.",
+    "madagascar": "Quem nunca saiu da cidade quer conhecer o mundo.",
+    "era-do-gelo": "Família não precisa ser da mesma espécie.",
+    "meu-malvado-favorito": "Planos grandes mudam quando a casa fica cheia.",
+    "moana": "O que te chama para longe de casa?",
+    "rocky": "Ninguém aposta em você, e tudo bem.",
+    "diabo-veste-prada": "Aquele chefe que você nunca vai esquecer.",
+    "naufrago": "Quanto tempo você aguentaria sem ninguém para conversar?",
+    "pulp-fiction": "Histórias que não estão na ordem certa.",
+    "clube-da-luta": "Insônia pode ter efeitos colaterais.",
+    "aladdin": "Fingir ser rico para conquistar alguém.",
+    "pantera-negra": "Ser rei também é saber dividir.",
+    "homem-de-ferro": "Quem fabrica armas pode mudar de ideia.",
+    "cavaleiro-das-trevas": "Às vezes o mocinho precisa levar a culpa.",
+    "a-origem": "Você lembra como chegou aqui?",
+    "gladiador": "Vingança diante da multidão.",
+    "resgate-soldado-ryan": "Vale arriscar muitos por um só?",
+    "lista-de-schindler": "Um empresário que mudou de prioridade.",
+    "se-beber-nao-case": "Ninguém lembra da noite passada.",
+    "caca-fantasmas": "Abrir um negócio que ninguém leva a sério.",
+    "gremlins": "Presente de Natal com regras demais.",
+    "o-exorcista": "A filha não está nada bem.",
+    "o-iluminado": "Trabalhar de casa pode enlouquecer.",
+    "silencio-dos-inocentes": "Para pegar um monstro, peça ajuda a outro.",
+    "psicose": "Filho muito apegado à mãe.",
+    "kill-bill-1": "Acordar do coma com contas a acertar.",
+    "magico-de-oz": "Uma viagem inteira para descobrir o que já tinha.",
+    "cantando-na-chuva": "O cinema aprendendo a falar.",
+    "wall-e": "Sozinho no trabalho há tempo demais.",
+    "coco": "A família não aprova o seu sonho.",
+    "mad-max-estrada-da-furia": "Fugir sem tirar o pé do acelerador.",
+    "duro-de-matar": "Visitar a ex no trabalho pode dar muito errado.",
+    "top-gun": "Competir com o melhor da turma, lá no alto.",
+    "karate-kid": "Mudar de cidade e virar alvo na escola nova.",
+    "jogos-vorazes": "Sobreviver é o único prêmio.",
+    "crepusculo": "Namorar alguém que te olha… com fome.",
+    "barbie": "Pensar na morte num dia perfeito.",
+    "oppenheimer": "Um cientista e o peso de uma invenção.",
+    "parasita": "Duas famílias, uma casa, muitos andares.",
+    "corra": "Visita aos pais da namorada com algo estranho no ar.",
+    "la-la-land": "Escolher entre o sonho e o amor.",
+    "show-de-truman": "Sorria, você está sendo filmado.",
+    "amelie": "Uma moça tímida que cuida da vida de todo mundo.",
+    "blade-runner": "O que nos torna humanos?",
+    "sexto-sentido": "Um psicólogo e um paciente com um segredo.",
+    "seven": "Dois detetives e uma chuva que não para.",
+    "os-bons-companheiros": "Uma vida inteira trabalhando para a 'família' errada.",
+    "scarface": "Subir rápido demais tem preço.",
+    "um-sonho-de-liberdade": "Paciência é a melhor ferramenta.",
+    "a-espera-de-um-milagre": "Um guarda que nunca esqueceu um preso.",
+    "prenda-me-se-for-capaz": "Mentir tão bem que vira carreira.",
+    "o-lobo-de-wall-street": "Dinheiro fácil nunca acaba bem.",
+    "grease": "Mudar o visual para agradar a turma.",
+    "a-novica-rebelde": "Uma casa cheia de crianças e um pai muito rígido.",
+    "a-viagem-de-chihiro": "Mudar de casa pode levar a lugares inesperados.",
+    "edward-maos-de-tesoura": "Ser diferente num bairro onde todos são iguais.",
+    "beetlejuice": "Os novos moradores não deixam você descansar em paz.",
+    "fantastica-fabrica-de-chocolate": "Um passeio em que as crianças vão sumindo.",
+    "o-maskara": "Um acessório que muda a sua personalidade.",
+    "missao-impossivel": "Ser acusado de traição pelos próprios colegas.",
+    "guardioes-da-galaxia": "Uma família formada por desajustados.",
+    "bastardos-inglorios": "Vingança em várias línguas.",
+    "django-livre": "Uma parceria improvável a cavalo.",
+    "a-vida-e-bela": "Fazer rir quando tudo dá errado.",
+    "duna": "Quem controla o deserto controla tudo.",
+    "perdido-em-marte": "Sobreviver com ciência e bom humor.",
+    "alien": "Uma tripulação que atende a um sinal estranho.",
+    "taxi-driver": "Rodar a cidade à noite sem conseguir dormir.",
+    "john-wick": "Aposentadoria interrompida por um motivo pequeno.",
+    "batman-1989": "Um bilionário que só sai à noite.",
+    "it-a-coisa": "Uma turma de amigos enfrenta o medo de infância.",
+    "panico": "Um telefonema que ninguém deveria atender.",
+    "cisne-negro": "A perfeição tem dois lados.",
+    "o-regresso": "Sobreviver por pura vingança, no frio.",
+    "ilha-do-medo": "Uma investigação em que nada é o que parece.",
+    "o-grande-truque": "Uma rivalidade que vai longe demais.",
+    "whiplash": "Um professor que nunca diz 'bom trabalho'.",
+    "gravidade": "Sozinha, longe de tudo, sem chão.",
+    "o-exterminador-do-futuro": "Alguém vem de longe para te proteger… ou te caçar.",
+    "abracadabra": "Três irmãs que não deviam ter voltado.",
+    "moulin-rouge": "Um poeta sem dinheiro no meio de muita festa e brilho.",
+    "os-infiltrados": "Dois homens vivendo a vida errada.",
+    "cassino-royale": "Uma mão de cartas que vale muito.",
+    "labirinto-do-fauno": "A imaginação como fuga da guerra.",
+    "carros": "Ficar preso numa cidade que você nem sabia que existia.",
+    "enrolados": "Nunca ter saído de casa aos dezoito.",
+    "zootopia": "A primeira da família a seguir uma carreira inesperada.",
+    "a-pequena-sereia": "Colocando a cauda pelas mãos.",
+    "mulan": "Honrar a família do jeito errado.",
+    "kung-fu-panda": "O escolhido menos provável.",
+    "como-treinar-seu-dragao": "O fracasso da vila faz um amigo improvável.",
+    "lilo-e-stitch": "É um cachorro isso?",
+    "vingadores-ultimato": "Arrumar a bagunça do passado tem preço.",
+    "vingadores-guerra-infinita": "Quando o vilão acha que está fazendo um favor.",
+    "thor-ragnarok": "Uma semana em que tudo dá errado, e você ri.",
+    "capitao-america-guerra-civil": "Assinar ou não assinar: a amizade depende disso.",
+    "doutor-estranho": "O orgulho cai e abre outra porta.",
+    "star-wars-imperio-contra-ataca": "Às vezes perder faz parte da história.",
+    "star-wars-despertar-da-forca": "Esperando alguém que nunca vai voltar.",
+    "rogue-one": "Ninguém lembra dos nomes, só do que eles entregaram.",
+    "deadpool": "Vingança com muita piada fora de hora.",
+    "homem-aranha-sem-volta-para-casa": "Um pedido que saiu muito maior do que devia.",
+    "o-irlandes": "Envelhecer cercado de segredos que não dá para contar.",
+    "capita-marvel": "Descobrir que suas lembranças não são bem suas.",
+    "roma": "Quem cuida da casa também tem uma história.",
+    "bird-box": "Há coisas que não se pode olhar.",
+    "o-poco": "Quem está em cima nunca pensa em quem está embaixo.",
+    "okja": "Um amigo que o mercado chama de produto.",
+    "os-7-de-chicago": "Quando o tribunal vira palco.",
+    "historia-de-um-casamento": "Separar sem deixar de se importar.",
+    "glass-onion": "O mais esperto da sala nem sempre é quem paga a conta.",
+    "nada-de-novo-no-front": "O entusiasmo dura até o primeiro dia.",
+    "a-sociedade-da-neve": "Decisões impossíveis para continuar vivo.",
+    "malevola": "Toda história tem o outro lado.",
+    "cruella": "Para brilhar, a aprendiz precisa derrubar a chefe.",
+    "mary-poppins": "Uma funcionária que vai embora quando não precisam mais dela.",
+    "klaus": "Uma gentileza puxa outra.",
+    "pinoquio-del-toro": "Um pai que não sabe lidar com a saudade.",
+    "guerreiras-do-kpop": "O que você esconde do seu público.",
+    "encanto": "Sentir-se a menos especial da família.",
+    "operacao-big-hero": "Superar o luto montando uma equipe.",
+    "frozen-2": "Seguir um chamado que só você escuta.",
+    "detona-ralph": "Cansado do papel que te deram no trabalho.",
+    "valente": "Uma mãe e uma filha que não se entendem.",
+    "raya": "Para juntar o que se quebrou, alguém precisa confiar primeiro.",
+    "a-princesa-e-o-sapo": "Trabalhar muito por um sonho e acabar no lugar errado.",
+    "soul": "Descobrir que o propósito não é tudo.",
+    "luca": "Esconder quem você é para ser aceito.",
+    "procurando-dory": "Uma viagem longa atrás de quem te criou.",
+    "elementos": "Um namoro que a família não aprovaria.",
+    "vida-de-inseto": "Contratar a ajuda errada e dar certo mesmo assim.",
+    "divertida-mente-2": "Crescer e ganhar companhias novas por dentro.",
+    "cinderela": "Ir à festa escondida da família.",
+    "branca-de-neve": "Perguntar sempre a mesma coisa e não gostar da resposta.",
+    "a-bela-adormecida": "Um convite esquecido que estraga a festa.",
+    "peter-pan": "Fugir de casa para não ter responsabilidades.",
+    "101-dalmatas": "Uma família que cresce demais de uma vez só.",
+    "hercules": "Ficar famoso e ainda se sentir vazio.",
+    "tarzan": "Encontrar alguém parecido depois de uma vida sendo diferente.",
+    "pocahontas": "Escutar o rio antes de decidir.",
+    "a-dama-e-o-vagabundo": "Uma moça de família se apaixona por alguém sem endereço.",
+    "homem-aranha-no-aranhaverso": "Você não é o único."
+  },
+  "extras": {
+    "titanic": [
+      "Começa com uma senhora contando uma história antiga.",
+      "Uma viagem de navio em 1912, separada por classes.",
+      "Um desenho a carvão e um colar de diamante azul.",
+      "\"Estou voando!\" na proa, e depois um iceberg."
+    ],
+    "rei-leao": [
+      "Uma história de família numa savana.",
+      "Um tio com inveja do irmão e do sobrinho.",
+      "Um javali e um suricato ensinam a viver sem preocupação.",
+      "Um filhote erguido no alto de uma pedra ao nascer do sol."
+    ],
+    "jurassic-park": [
+      "Uma ilha com uma atração que ainda não abriu ao público.",
+      "Cientistas convidados para aprovar uma atração perigosa.",
+      "Um copo d'água tremendo na mesa.",
+      "Bichos extintos trazidos de volta com DNA de um mosquito no âmbar."
+    ],
+    "de-volta-para-o-futuro": [
+      "Um adolescente, um cientista amigo e um relógio de torre.",
+      "Atrapalhar sem querer o namoro dos próprios pais.",
+      "Um raio cai exatamente às 22h04.",
+      "Um carro esportivo que viaja no tempo a 88 milhas por hora."
+    ],
+    "procurando-nemo": [
+      "Uma aventura animada debaixo d'água.",
+      "Um pai atravessa o oceano atrás do filho.",
+      "Uma amiga que esquece tudo em poucos segundos.",
+      "Um peixe-palhaço com uma nadadeira menor, preso num aquário de dentista."
+    ],
+    "harry-potter-1": [
+      "Um menino que mora num quartinho embaixo da escada.",
+      "Cartas que não param de chegar pela chaminé.",
+      "Um trem que sai de uma plataforma que não existe.",
+      "Uma escola de magia, uma cicatriz em forma de raio e um chapéu que escolhe sua casa."
+    ],
+    "matrix": [
+      "Um programador que vive duas vidas.",
+      "Um estranho oferece uma escolha entre duas cores.",
+      "Desviar de balas em câmera lenta, inclinado para trás.",
+      "Pílula vermelha ou pílula azul, num mundo de código verde."
+    ],
+    "toy-story": [
+      "Tudo acontece quando o dono sai do quarto.",
+      "Um brinquedo antigo e um brinquedo novo disputam o posto de favorito.",
+      "Um vizinho que tortura brinquedos.",
+      "Um caubói de corda e um patrulheiro espacial: \"ao infinito e além\"."
+    ],
+    "shrek": [
+      "Um conto de fadas às avessas.",
+      "Personagens de histórias infantis despejados num pântano.",
+      "Um burro falante que não para de falar.",
+      "Um ogro verde resgata uma princesa de um castelo guardado por um dragão."
+    ],
+    "senhor-dos-aneis-1": [
+      "Uma jornada longa por terras de fantasia.",
+      "Um grupo de nove sai em missão.",
+      "Um mago que diz que alguém não vai passar.",
+      "Um pequeno objeto dourado precisa ser destruído num vulcão."
+    ],
+    "cidade-de-deus": [
+      "Brasil, anos 60 a 80, numa comunidade do Rio.",
+      "Um garoto que quer ser fotógrafo vê tudo de perto.",
+      "Uma galinha fugindo abre o filme.",
+      "Dadinho, não; agora o nome é outro."
+    ],
+    "tropa-de-elite": [
+      "Polícia e tráfico no Rio de Janeiro.",
+      "Um capitão procura alguém para ficar no lugar dele.",
+      "Um treinamento extremamente duro com farda preta.",
+      "\"Pede pra sair!\", com uma caveira no uniforme."
+    ],
+    "central-do-brasil": [
+      "Um filme brasileiro que concorreu ao Oscar.",
+      "Uma mulher que escreve cartas para quem não sabe escrever.",
+      "Um menino procura o pai que nunca conheceu.",
+      "Uma escrevente da estação de trem viaja ao sertão com um garoto."
+    ],
+    "et": [
+      "Um menino solitário encontra alguém no quintal.",
+      "Um visitante perdido que adora doces.",
+      "Um dedo que brilha e cura.",
+      "Bicicletas voando na frente da lua: \"telefone, minha casa\"."
+    ],
+    "tubarao": [
+      "Uma cidade de praia em pleno feriado de verão.",
+      "O prefeito não quer fechar as praias.",
+      "Três homens num barco pequeno demais.",
+      "Duas notas de música bem graves anunciam o perigo no mar."
+    ],
+    "poderoso-chefao": [
+      "Um casamento no começo, e pedidos ao pai da noiva.",
+      "O filho que não queria entrar nos negócios da família.",
+      "Uma cabeça de cavalo na cama.",
+      "\"Vou fazer uma oferta que ele não pode recusar.\""
+    ],
+    "star-wars-4": [
+      "Uma galáxia muito, muito distante.",
+      "Um fazendeiro, um contrabandista e uma princesa.",
+      "Dois robôs, um dourado e um que só apita.",
+      "Espadas de luz e a destruição da Estrela da Morte."
+    ],
+    "forrest-gump": [
+      "Um homem conta a vida para estranhos num ponto de ônibus.",
+      "Ele passa sem querer pelos grandes momentos da história americana.",
+      "Correr pelo país inteiro, sem motivo.",
+      "\"A vida é como uma caixa de chocolates.\""
+    ],
+    "vingadores": [
+      "Heróis que nunca trabalharam juntos.",
+      "Um deus nórdico, um gênio de armadura e um soldado de outra época.",
+      "Um homem que vira um gigante verde quando se irrita.",
+      "A batalha final em Nova York contra uma invasão alienígena."
+    ],
+    "frozen": [
+      "Duas irmãs princesas que viviam separadas.",
+      "Uma coroação que dá muito errado.",
+      "Um boneco de neve que ama o verão.",
+      "\"Livre estou\", cantada enquanto ela constrói um palácio de gelo."
+    ],
+    "piratas-do-caribe-1": [
+      "Aventura no mar, com espadas e tesouro.",
+      "Um ferreiro e a filha do governador.",
+      "Uma tripulação que vira esqueleto sob a luz da lua.",
+      "Um capitão excêntrico com rum, tranças e muita sorte."
+    ],
+    "indiana-jones-1": [
+      "Aventura dos anos 30 com nazistas na disputa.",
+      "Um professor que dá aula e também explora ruínas.",
+      "Fugir de uma pedra gigante rolando.",
+      "Chapéu, chicote e medo de cobras."
+    ],
+    "exterminador-2": [
+      "Uma mãe internada por avisar sobre o fim do mundo.",
+      "Dois robôs vindos de outra época: um protege, outro caça.",
+      "Um vilão de metal líquido que imita qualquer um.",
+      "\"Hasta la vista, baby\", e um polegar para cima na lava."
+    ],
+    "esqueceram-de-mim": [
+      "Uma família enorme viajando no Natal.",
+      "Um menino de oito anos que fica sozinho.",
+      "Dois ladrões tentando roubar as casas do bairro.",
+      "Armadilhas caseiras e um grito com as mãos no rosto."
+    ],
+    "up": [
+      "Um vendedor de balões viúvo.",
+      "Um escoteiro que aparece na hora errada.",
+      "Um cachorro com coleira que fala.",
+      "Uma casa que levanta voo com milhares de balões."
+    ],
+    "interestelar": [
+      "A Terra está ficando sem comida.",
+      "Um pai deixa a filha para salvar a humanidade.",
+      "Ondas gigantes num planeta onde uma hora vale sete anos.",
+      "Uma estante de livros que manda recados através do tempo."
+    ],
+    "avatar": [
+      "Ficção científica numa lua cheia de florestas.",
+      "Um ex-fuzileiro numa cadeira de rodas ganha outro corpo.",
+      "Uma árvore enorme e sagrada.",
+      "Gente azul e alta, com cauda, montando criaturas voadoras."
+    ],
+    "coringa": [
+      "Gotham no começo dos anos 80.",
+      "Um comediante fracassado que cuida da mãe.",
+      "Uma risada que ele não consegue controlar.",
+      "Dançar numa escadaria com terno vermelho e maquiagem de palhaço."
+    ],
+    "os-incriveis": [
+      "Uma família inteira com segredos.",
+      "Um pai que sente falta dos dias de glória.",
+      "Uma estilista baixinha que proíbe capas.",
+      "Pai forte, mãe elástica, filho veloz e filha invisível."
+    ],
+    "homem-aranha": [
+      "Um estudante tímido em Nova York.",
+      "Uma excursão escolar a um laboratório.",
+      "Com grandes poderes vêm grandes responsabilidades.",
+      "Picado por um bicho de oito patas, ele começa a soltar teia."
+    ],
+    "bela-e-a-fera": [
+      "Um castelo amaldiçoado e uma moça do vilarejo.",
+      "Ela troca de lugar com o pai prisioneiro.",
+      "Um candelabro e um relógio que falam.",
+      "Uma rosa sob uma redoma perdendo pétalas."
+    ],
+    "ghost": [
+      "Um casal apaixonado em Nova York.",
+      "Um banqueiro descobre uma traição depois de morrer.",
+      "Uma vidente falsa que de repente ouve uma voz de verdade.",
+      "Uma cena de cerâmica no torno ao som de \"Unchained Melody\"."
+    ],
+    "uma-linda-mulher": [
+      "Uma comédia romântica em Hollywood dos anos 90.",
+      "Um empresário rico contrata uma companhia por uma semana.",
+      "Uma tarde de compras numa loja que a tinha esnobado.",
+      "Botas longas, peruca loira e uma música de Roy Orbison no título."
+    ],
+    "mudanca-de-habito": [
+      "Uma cantora testemunha um crime.",
+      "Escondida pela polícia no lugar mais improvável.",
+      "Ela transforma um coral desafinado em sucesso.",
+      "Uma cantora de boate disfarçada de freira."
+    ],
+    "os-goonies": [
+      "Uma turma de amigos num bairro que vai ser demolido.",
+      "Um mapa antigo encontrado no sótão.",
+      "Uma família de bandidos no caminho.",
+      "Um navio pirata escondido numa caverna, e o \"Sloth\"."
+    ],
+    "curtindo-a-vida-adoidado": [
+      "Um dia inteiro em Chicago.",
+      "Um diretor de escola obcecado em pegar um aluno.",
+      "Uma Ferrari emprestada que não devia sair da garagem.",
+      "Fingir doença e cantar \"Twist and Shout\" num desfile."
+    ],
+    "ratatouille": [
+      "Paris, um restaurante famoso e um crítico temido.",
+      "Um rapaz desajeitado vira cozinheiro por acaso.",
+      "Qualquer um pode cozinhar.",
+      "Um rato que controla o cozinheiro puxando o cabelo dele."
+    ],
+    "monstros-sa": [
+      "Uma empresa que precisa de energia.",
+      "A dupla de funcionários mais premiada do mês.",
+      "Uma menina humana solta onde não devia.",
+      "Um monstro azul peludo e um verde de um olho só."
+    ],
+    "divertida-mente": [
+      "Uma menina de 11 anos muda de cidade.",
+      "Tudo se passa dentro da cabeça dela.",
+      "Ilhas de personalidade que desabam.",
+      "Alegria, Tristeza, Raiva, Medo e Nojinho no painel de controle."
+    ],
+    "madagascar": [
+      "Bichos de um zoológico de Nova York.",
+      "Uma fuga que termina numa ilha.",
+      "Pinguins que agem como espiões.",
+      "\"Eu me remexo muito\", com um leão, uma zebra, uma girafa e uma hipopótamo."
+    ],
+    "era-do-gelo": [
+      "Animais pré-históricos migrando para o sul.",
+      "Três bichos devolvem um bebê humano à família.",
+      "Um esquilo obcecado por uma noz.",
+      "Um mamute, uma preguiça e um tigre-dentes-de-sabre."
+    ],
+    "meu-malvado-favorito": [
+      "Um vilão quer roubar algo enorme.",
+      "Ele adota três meninas para um plano.",
+      "Querer roubar a lua.",
+      "Ajudantes amarelos de macacão e óculos que falam uma língua própria."
+    ],
+    "moana": [
+      "Uma ilha do Pacífico em perigo.",
+      "A filha do chefe quer navegar para além dos recifes.",
+      "Um semideus tatuado e muito convencido.",
+      "Ela devolve um coração de pedra verde para uma deusa."
+    ],
+    "rocky": [
+      "Filadélfia, anos 70.",
+      "Um boxeador desconhecido ganha uma chance de lutar pelo título.",
+      "Treinar socando carne num frigorífico.",
+      "Subir uma escadaria correndo e erguer os braços lá em cima."
+    ],
+    "diabo-veste-prada": [
+      "Uma jornalista recém-formada em Nova York.",
+      "Um emprego que milhões de garotas queriam.",
+      "Buscar café, decorar nomes e um livro ainda não publicado.",
+      "Uma editora de revista de moda gelada e um suéter azul-celeste."
+    ],
+    "naufrago": [
+      "Um executivo que vive correndo contra o relógio.",
+      "Um acidente de avião no meio do oceano.",
+      "Fazer fogo do zero e gritar de alegria.",
+      "O único amigo é uma bola de vôlei com um rosto pintado."
+    ],
+    "pulp-fiction": [
+      "Gângsteres, um boxeador e um casal de assaltantes.",
+      "Uma maleta cujo conteúdo brilha e ninguém mostra.",
+      "Uma overdose e uma injeção no coração.",
+      "Um concurso de dança num restaurante temático dos anos 50."
+    ],
+    "clube-da-luta": [
+      "Um funcionário de escritório entediado.",
+      "Grupos de apoio frequentados por quem não está doente.",
+      "Fazer sabão e muito segredo.",
+      "Primeira regra: não se fala sobre ele."
+    ],
+    "aladdin": [
+      "Uma cidade do deserto, um palácio e um mercado.",
+      "Um ladrão de rua e uma princesa que foge do palácio.",
+      "Um tapete que voa e um macaco ladrão.",
+      "Uma lâmpada mágica com um gênio azul que concede três desejos."
+    ],
+    "pantera-negra": [
+      "Um país africano escondido do mundo.",
+      "Um novo rei desafiado por um primo.",
+      "Um metal raro que move toda a tecnologia.",
+      "\"Wakanda para sempre\", com os braços cruzados no peito."
+    ],
+    "homem-de-ferro": [
+      "Um bilionário mulherengo e gênio da tecnologia.",
+      "Sequestrado numa caverna, ele constrói uma saída.",
+      "Um reator brilhante no peito.",
+      "\"Eu sou o...\" na coletiva de imprensa, de armadura vermelha e dourada."
+    ],
+    "cavaleiro-das-trevas": [
+      "Uma cidade dominada pelo crime.",
+      "Um vilão que só quer ver o mundo pegar fogo.",
+      "Duas balsas e dois detonadores.",
+      "\"Por que tão sério?\", e um promotor com metade do rosto queimado."
+    ],
+    "a-origem": [
+      "Ladrões que roubam ideias.",
+      "Um último trabalho para poder voltar para casa.",
+      "Uma cidade que se dobra sobre si mesma.",
+      "Um pião girando na mesa: ele vai cair ou não?"
+    ],
+    "gladiador": [
+      "Roma antiga.",
+      "Um general traído vira escravo.",
+      "Lutar na arena para ganhar o povo.",
+      "\"Meu nome é Máximo Décimo Merídio...\", diante do imperador."
+    ],
+    "resgate-soldado-ryan": [
+      "Segunda Guerra Mundial.",
+      "Um desembarque sangrento numa praia da Normandia.",
+      "Oito soldados atrás de um paraquedista.",
+      "Encontrar um rapaz cujos três irmãos morreram em combate."
+    ],
+    "lista-de-schindler": [
+      "Segunda Guerra, Polônia.",
+      "Um industrial alemão que contrata judeus para sua fábrica.",
+      "Um casaco vermelho num filme em preto e branco.",
+      "Nomes datilografados que salvaram mais de mil vidas."
+    ],
+    "se-beber-nao-case": [
+      "Uma despedida de solteiro em Las Vegas.",
+      "Acordar num quarto de hotel destruído.",
+      "Um tigre no banheiro e um bebê no armário.",
+      "O noivo sumiu, e alguém perdeu um dente."
+    ],
+    "caca-fantasmas": [
+      "Três cientistas demitidos da universidade.",
+      "Uma empresa que atende chamados sobrenaturais.",
+      "Nunca cruze os raios.",
+      "Um boneco de marshmallow gigante andando por Nova York."
+    ],
+    "gremlins": [
+      "Uma cidade pequena nos Estados Unidos, no Natal.",
+      "Um bichinho comprado numa loja de antiguidades.",
+      "Não molhar, nunca expor à luz, nunca comer depois da meia-noite.",
+      "Um bichinho fofo que, molhado, vira monstros verdes."
+    ],
+    "o-exorcista": [
+      "Uma atriz se muda com a filha para Washington.",
+      "Um padre que está perdendo a fé.",
+      "Uma cabeça que gira e uma voz que não é dela.",
+      "Uma escadaria íngreme e um ritual para expulsar o demônio."
+    ],
+    "o-iluminado": [
+      "Um escritor aceita cuidar de um hotel vazio no inverno.",
+      "Um menino que vê coisas que ninguém vê.",
+      "Gêmeas no corredor e um triciclo.",
+      "\"Aqui está o Johnny!\", com o rosto entrando por um buraco na porta."
+    ],
+    "silencio-dos-inocentes": [
+      "Uma estagiária do FBI.",
+      "Ela entrevista um psiquiatra preso numa cela de vidro.",
+      "Uma mariposa na boca da vítima.",
+      "Um canibal elegante que fala de favas e vinho."
+    ],
+    "psicose": [
+      "Uma secretária foge com dinheiro roubado.",
+      "Ela para num motel quase sem hóspedes.",
+      "Um dono de motel tímido que empalha pássaros.",
+      "A cena do chuveiro, com violinos agudos."
+    ],
+    "kill-bill-1": [
+      "Uma noiva atacada no próprio casamento.",
+      "Uma lista de nomes para riscar.",
+      "Um macacão amarelo com faixa preta.",
+      "Uma espada de Okinawa e uma luta contra 88 inimigos."
+    ],
+    "magico-de-oz": [
+      "Uma menina do Kansas e seu cachorrinho.",
+      "Um furacão leva a casa inteira.",
+      "Um espantalho, um homem de lata e um leão medroso.",
+      "Seguir a estrada de tijolos amarelos com sapatinhos vermelhos."
+    ],
+    "cantando-na-chuva": [
+      "Hollywood no fim dos anos 20.",
+      "Uma estrela do cinema mudo com uma voz terrível.",
+      "Dublagem escondida atrás da cortina.",
+      "Dançar pendurado num poste, de sombrinha aberta, em plena tempestade."
+    ],
+    "wall-e": [
+      "Uma Terra abandonada e coberta de lixo.",
+      "Um robozinho que coleciona objetos e assiste a musicais antigos.",
+      "Uma plantinha numa bota.",
+      "Um robô de lixo se apaixona por uma robô branca e lisa."
+    ],
+    "coco": [
+      "Um menino mexicano que ama música.",
+      "Uma família de sapateiros que proibiu a música.",
+      "Um violão roubado de um túmulo.",
+      "O Dia dos Mortos e \"Lembre de mim\"."
+    ],
+    "mad-max-estrada-da-furia": [
+      "Um deserto sem água e sem lei.",
+      "Uma motorista foge com as esposas de um tirano.",
+      "Um guitarrista pendurado num caminhão, cuspindo fogo.",
+      "Um caminhão de guerra perseguido por carros enferrujados."
+    ],
+    "duro-de-matar": [
+      "Véspera de Natal em Los Angeles.",
+      "Um policial descalço contra um grupo de assaltantes.",
+      "Um prédio de escritórios tomado por terroristas.",
+      "\"Yippee-ki-yay\" no Nakatomi Plaza."
+    ],
+    "top-gun": [
+      "Uma escola de elite da Marinha americana.",
+      "Um piloto rebelde com nome de animal selvagem.",
+      "Óculos aviador, jaqueta de couro e moto.",
+      "Caças F-14 ao som de \"Danger Zone\"."
+    ],
+    "karate-kid": [
+      "Um garoto se muda de Nova Jersey para a Califórnia.",
+      "Um zelador japonês vira mestre dele.",
+      "Encerar o carro e pintar a cerca.",
+      "Um chute de garça na final do torneio."
+    ],
+    "jogos-vorazes": [
+      "Um país dividido em distritos pobres e uma capital rica.",
+      "Uma irmã se oferece no lugar da caçula.",
+      "Um broche de pássaro dourado.",
+      "Arco e flecha num reality show em que só um sobrevive."
+    ],
+    "crepusculo": [
+      "Uma garota se muda para uma cidade chuvosa.",
+      "Um colega pálido e misterioso no laboratório de biologia.",
+      "Uma família que não come nada.",
+      "Um vampiro que brilha ao sol, e um rival lobisomem."
+    ],
+    "barbie": [
+      "Um mundo cor-de-rosa perfeito.",
+      "Uma boneca começa a ter pés chatos e celulite.",
+      "Uma viagem ao mundo real de patins.",
+      "\"Eu sou só o Ken\", numa casa dos sonhos."
+    ],
+    "oppenheimer": [
+      "Um físico brilhante e muitas audiências.",
+      "Um laboratório secreto no deserto do Novo México.",
+      "\"Agora me tornei a Morte, destruidora de mundos.\"",
+      "O teste Trinity e a criação da bomba atômica."
+    ],
+    "parasita": [
+      "Um filme sul-coreano que venceu o Oscar.",
+      "Uma família pobre arruma emprego na casa de uma rica.",
+      "Pêssegos, um porão escondido e um cheiro.",
+      "Uma família inteira se infiltra fingindo não se conhecer."
+    ],
+    "corra": [
+      "Um fotógrafo negro visita a família da namorada branca.",
+      "Um jardineiro e uma empregada que agem estranho.",
+      "Uma colher batendo numa xícara de chá.",
+      "Cair no \"lugar afundado\" depois de uma hipnose."
+    ],
+    "la-la-land": [
+      "Los Angeles e muito trânsito.",
+      "Uma aspirante a atriz e um pianista de jazz.",
+      "Dançar sobre a cidade ao pôr do sol.",
+      "Um musical moderno que quase levou o Oscar de melhor filme por engano."
+    ],
+    "show-de-truman": [
+      "Uma cidadezinha perfeita demais.",
+      "Um homem que nunca saiu de casa.",
+      "Um holofote cai do céu.",
+      "Ele é a estrela de um reality e não sabe."
+    ],
+    "amelie": [
+      "Paris, Montmartre.",
+      "Uma garçonete que encontra uma caixinha escondida no banheiro.",
+      "Um anão de jardim que viaja pelo mundo.",
+      "Um álbum de fotos rasgadas de cabines automáticas."
+    ],
+    "blade-runner": [
+      "Los Angeles em 2019, sempre de noite e chovendo.",
+      "Um policial que persegue máquinas que parecem pessoas.",
+      "Um teste com perguntas para descobrir quem é humano.",
+      "\"Lágrimas na chuva\" e replicantes fugitivos."
+    ],
+    "sexto-sentido": [
+      "Um psicólogo infantil tenta se redimir.",
+      "Um menino com medo de tudo.",
+      "Ele vê gente morta.",
+      "Uma reviravolta final famosa sobre o próprio psicólogo."
+    ],
+    "seven": [
+      "Um detetive veterano e um novato.",
+      "Assassinatos inspirados em pecados.",
+      "Gula, ganância, preguiça...",
+      "\"O que tem na caixa?\""
+    ],
+    "os-bons-companheiros": [
+      "Nova York, de 1955 a 1980.",
+      "Desde criança ele queria ser gângster.",
+      "\"Engraçado como? Eu te divirto?\"",
+      "Uma entrada pela cozinha de uma boate num plano-sequência famoso."
+    ],
+    "scarface": [
+      "Miami, anos 80.",
+      "Um refugiado cubano sobe no tráfico de cocaína.",
+      "\"O mundo é seu\", num letreiro.",
+      "\"Diga olá ao meu amiguinho!\""
+    ],
+    "um-sonho-de-liberdade": [
+      "Um banqueiro condenado por um crime que não cometeu.",
+      "Uma amizade de décadas dentro da prisão.",
+      "Um pôster de atriz na parede da cela.",
+      "Fugir rastejando por um esgoto e erguer os braços na chuva."
+    ],
+    "a-espera-de-um-milagre": [
+      "Um corredor da morte nos anos 30.",
+      "Um gigante gentil que tem medo do escuro.",
+      "Um ratinho que faz truques.",
+      "Um preso que cura doenças com as mãos."
+    ],
+    "prenda-me-se-for-capaz": [
+      "Anos 60, baseado em história real.",
+      "Um adolescente foge de casa e vira piloto, médico e advogado.",
+      "Cheques falsos por todo o país.",
+      "Um agente do FBI persegue um falsificador genial."
+    ],
+    "o-lobo-de-wall-street": [
+      "Um corretor da bolsa começa de baixo.",
+      "Vender ações sem valor por telefone.",
+      "\"Me venda esta caneta.\"",
+      "Uma corretora com festas, iates e muitos excessos."
+    ],
+    "grease": [
+      "Uma escola americana nos anos 50.",
+      "Um romance de verão que continua na volta às aulas.",
+      "Uma gangue de jaqueta de couro e um carro de corrida.",
+      "\"You're the One That I Want\", com ela de calça preta justa."
+    ],
+    "a-novica-rebelde": [
+      "Áustria, pouco antes da Segunda Guerra.",
+      "Uma jovem que não se encaixa no convento.",
+      "Roupas feitas com cortinas.",
+      "Sete crianças cantando \"Dó-Ré-Mi\" nas montanhas."
+    ],
+    "a-viagem-de-chihiro": [
+      "Uma animação japonesa vencedora do Oscar.",
+      "Os pais viram porcos depois de comer.",
+      "Trabalhar numa casa de banho para espíritos.",
+      "Um espírito mascarado sem rosto e um dragão branco."
+    ],
+    "edward-maos-de-tesoura": [
+      "Um castelo no alto de um bairro colorido.",
+      "Uma vendedora de cosméticos leva um estranho para casa.",
+      "Cortes de cabelo e esculturas de arbustos.",
+      "Um rapaz pálido com lâminas no lugar dos dedos."
+    ],
+    "beetlejuice": [
+      "Um casal morre e continua na casa.",
+      "Uma família esquisita compra o imóvel.",
+      "Uma garota gótica que enxerga os mortos.",
+      "Fale o nome dele três vezes."
+    ],
+    "fantastica-fabrica-de-chocolate": [
+      "Um menino pobre que mora com quatro avós.",
+      "Cinco bilhetes dourados escondidos.",
+      "Pequenos trabalhadores que cantam a cada criança que some.",
+      "Um rio de doce marrom e um dono excêntrico de cartola."
+    ],
+    "o-maskara": [
+      "Um bancário tímido e azarado.",
+      "Um objeto antigo de madeira encontrado no rio.",
+      "Um cachorrinho que também usa o objeto.",
+      "Um rosto verde e um terno amarelo: \"Que gracinha!\""
+    ],
+    "missao-impossivel": [
+      "Uma equipe de espiões americanos.",
+      "Uma operação em Praga dá errado.",
+      "Uma lista secreta de agentes.",
+      "Descer pendurado por cabos numa sala branca sem tocar no chão."
+    ],
+    "guardioes-da-galaxia": [
+      "Um terráqueo levado ao espaço quando criança.",
+      "Um walkman com uma fita de músicas dos anos 70.",
+      "Um guaxinim que fala e uma árvore que só diz uma frase.",
+      "\"Eu sou Groot.\""
+    ],
+    "bastardos-inglorios": [
+      "Uma França ocupada por nazistas.",
+      "Um grupo de soldados judeus americanos.",
+      "Um cinema numa noite de estreia.",
+      "Um coronel nazista educado e uma marca na testa."
+    ],
+    "django-livre": [
+      "Um faroeste no sul dos Estados Unidos.",
+      "Um dentista alemão que caça recompensas.",
+      "Uma esposa vendida para uma fazenda.",
+      "Um ex-escravo vira pistoleiro, e o \"D\" é mudo."
+    ],
+    "a-vida-e-bela": [
+      "Itália, pouco antes da Segunda Guerra.",
+      "Um garçom atrapalhado conquista uma professora.",
+      "Num campo de concentração, ele finge que tudo é um jogo.",
+      "O prêmio do jogo, diz o pai ao filho, é um tanque de verdade."
+    ],
+    "duna": [
+      "Ficção científica num planeta árido.",
+      "Uma família nobre recebe um planeta perigoso.",
+      "A especiaria mais valiosa do universo.",
+      "Vermes de areia gigantes."
+    ],
+    "perdido-em-marte": [
+      "Um astronauta dado como morto.",
+      "Plantar batatas com o próprio cocô.",
+      "Ouvir só a música disco da comandante.",
+      "Sozinho no planeta vermelho, ele precisa esperar o resgate."
+    ],
+    "alien": [
+      "Uma nave cargueira voltando para a Terra.",
+      "Um tripulante volta com algo grudado no rosto.",
+      "No espaço, ninguém pode ouvir você gritar.",
+      "Uma criatura sai do peito de um tripulante no jantar."
+    ],
+    "taxi-driver": [
+      "Nova York, anos 70.",
+      "Um veterano do Vietnã que trabalha à noite.",
+      "Uma adolescente que ele quer salvar.",
+      "\"Você está falando comigo?\", na frente do espelho."
+    ],
+    "john-wick": [
+      "Um homem de luto pela esposa.",
+      "Roubaram o carro dele e mataram o cachorro.",
+      "Um hotel onde assassinos não podem trabalhar.",
+      "Um assassino aposentado que mata com um lápis."
+    ],
+    "batman-1989": [
+      "Gotham, sombria e gótica.",
+      "Uma fotógrafa investiga um mascarado.",
+      "Um gângster cai num tanque de produtos químicos.",
+      "Um palhaço criminoso contra o homem-morcego, de Tim Burton."
+    ],
+    "it-a-coisa": [
+      "Uma cidadezinha onde crianças desaparecem.",
+      "Um grupo de amigos que se chama \"o clube dos otários\".",
+      "Um barquinho de papel e um bueiro.",
+      "Um palhaço com um balão vermelho."
+    ],
+    "panico": [
+      "Uma cidadezinha onde adolescentes estão morrendo.",
+      "Um assassino que ama filmes de terror.",
+      "Regras de como sobreviver a um filme de terror.",
+      "Uma máscara branca de fantasma: \"Qual é o seu filme de terror favorito?\""
+    ],
+    "cisne-negro": [
+      "Uma companhia de balé em Nova York.",
+      "Uma bailarina disputa o papel principal.",
+      "Uma mãe controladora e uma rival.",
+      "Ela precisa dançar o branco e o preto em O Lago dos Cisnes."
+    ],
+    "o-regresso": [
+      "Caçadores de peles no século 19.",
+      "Atacado por um urso e deixado para trás.",
+      "Dormir dentro de um cavalo morto.",
+      "O filme que finalmente deu o Oscar a um ator muito famoso."
+    ],
+    "ilha-do-medo": [
+      "Um hospital psiquiátrico cercado de mar.",
+      "Dois agentes federais procuram uma paciente.",
+      "Uma tempestade e um farol.",
+      "Viver como um monstro ou morrer como um homem bom?"
+    ],
+    "o-grande-truque": [
+      "Londres, fim do século 19.",
+      "Dois mágicos rivais.",
+      "Um cientista que trabalha com eletricidade.",
+      "O homem transportado: quem sai do outro lado?"
+    ],
+    "whiplash": [
+      "Um conservatório de música em Nova York.",
+      "Um jovem baterista quer ser o melhor.",
+      "Mãos sangrando nas baquetas.",
+      "\"Não estava no meu tempo!\", gritado por um maestro."
+    ],
+    "gravidade": [
+      "Um conserto num telescópio espacial.",
+      "Destroços atingem a nave.",
+      "Uma engenheira e um astronauta veterano.",
+      "Perdida no espaço, sozinha, girando."
+    ],
+    "o-exterminador-do-futuro": [
+      "Los Angeles em 1984.",
+      "Uma garçonete comum é perseguida.",
+      "Um soldado vindo de 2029.",
+      "\"Eu voltarei\", um ciborgue que não para."
+    ],
+    "abracadabra": [
+      "Halloween em Salem.",
+      "Um adolescente acende uma vela proibida.",
+      "Um gato preto falante que já foi menino.",
+      "Três bruxas voltam do século 17 cantando."
+    ],
+    "moulin-rouge": [
+      "Paris, 1899.",
+      "Um escritor inglês e uma cortesã.",
+      "Um duque que quer comprar o coração dela.",
+      "Um cabaré famoso de Paris com um moinho na fachada."
+    ],
+    "os-infiltrados": [
+      "Boston, polícia e máfia irlandesa.",
+      "Um policial disfarçado dentro da máfia.",
+      "Um mafioso disfarçado dentro da polícia.",
+      "O único Oscar de melhor filme de um diretor ítalo-americano famoso."
+    ],
+    "cassino-royale": [
+      "Um agente secreto em início de carreira.",
+      "Um banqueiro de terroristas que chora sangue.",
+      "Pôquer em Montenegro.",
+      "Um novo agente loiro com licença para matar."
+    ],
+    "labirinto-do-fauno": [
+      "Espanha, 1944.",
+      "Uma menina se muda com a mãe grávida.",
+      "Três tarefas antes da lua cheia.",
+      "Um monstro pálido com olhos nas mãos."
+    ],
+    "carros": [
+      "Uma corrida importante na Califórnia.",
+      "Um astro arrogante destrói uma estrada.",
+      "Um guincho enferrujado vira melhor amigo.",
+      "Um carro de corrida vermelho: \"Katchau!\""
+    ],
+    "enrolados": [
+      "Uma princesa roubada quando bebê.",
+      "Uma torre sem portas.",
+      "Um ladrão charmoso e um cavalo que parece cachorro.",
+      "Cabelos mágicos de vinte metros e lanternas no céu."
+    ],
+    "zootopia": [
+      "Uma metrópole onde predadores e presas vivem juntos.",
+      "A primeira coelha da polícia.",
+      "Uma raposa trapaceira vira parceira.",
+      "Uma preguiça lentíssima no departamento de trânsito."
+    ],
+    "a-pequena-sereia": [
+      "Um reino debaixo do mar.",
+      "Uma princesa que coleciona objetos humanos.",
+      "Um caranguejo cantando \"Aqui no mar\".",
+      "Trocar a voz por pernas com uma bruxa-polvo."
+    ],
+    "mulan": [
+      "China antiga.",
+      "Uma jovem que não serve para casamento.",
+      "Um dragãozinho vermelho falante.",
+      "Ela corta o cabelo e se alista no lugar do pai."
+    ],
+    "kung-fu-panda": [
+      "China antiga, num vale.",
+      "Um filho de dono de restaurante de macarrão.",
+      "Cinco mestres de artes marciais e um pergaminho.",
+      "Um urso preto e branco guloso vira o Dragão Guerreiro."
+    ],
+    "como-treinar-seu-dragao": [
+      "Uma vila viking numa ilha.",
+      "O filho do chefe que não consegue caçar.",
+      "Uma cauda ferida e uma prótese.",
+      "Um menino que faz amizade com o temido Fúria da Noite."
+    ],
+    "lilo-e-stitch": [
+      "Havaí.",
+      "Uma irmã mais velha cria a caçula sozinha.",
+      "Um bichinho adotado num abrigo.",
+      "Um experimento alienígena azul: Ohana quer dizer família."
+    ],
+    "vingadores-ultimato": [
+      "Cinco anos depois de metade do universo sumir.",
+      "Um assalto através do tempo.",
+      "Um rato que aperta o botão certo numa van.",
+      "\"Eu sou o Homem de Ferro\", e um estalo final."
+    ],
+    "vingadores-guerra-infinita": [
+      "Heróis de muitos filmes reunidos contra um só inimigo.",
+      "Seis pedras coloridas espalhadas pelo universo.",
+      "Uma manopla dourada.",
+      "Um titã roxo que quer apagar metade da vida."
+    ],
+    "thor-ragnarok": [
+      "Um deus preso num planeta-lixão.",
+      "Lutar como gladiador contra um colega de trabalho verde.",
+      "Uma irmã mais velha, deusa da morte.",
+      "\"Immigrant Song\" e um martelo destruído."
+    ],
+    "capitao-america-guerra-civil": [
+      "Um acordo da ONU para controlar heróis.",
+      "Um amigo de infância acusado de atentado.",
+      "Uma briga num aeroporto com um herói gigante.",
+      "Escudo contra armadura: o time de cada um."
+    ],
+    "doutor-estranho": [
+      "Um acidente de carro em Nova York.",
+      "Uma viagem ao Nepal em busca de cura.",
+      "Um manto vermelho que tem vontade própria.",
+      "Um feiticeiro que barganha num loop de tempo."
+    ],
+    "star-wars-imperio-contra-ataca": [
+      "Um planeta de gelo atacado por máquinas gigantes.",
+      "Um mestre verde e pequeno num pântano.",
+      "Um amigo congelado em carbonita.",
+      "\"Eu sou seu pai.\""
+    ],
+    "star-wars-despertar-da-forca": [
+      "Trinta anos depois de uma vitória contra o império.",
+      "Um robô redondo carregando um mapa.",
+      "Um vilão de máscara que idolatra o avô.",
+      "Han Solo e Chewbacca voltam à Millennium Falcon."
+    ],
+    "rogue-one": [
+      "Uma filha de cientista vira rebelde.",
+      "Um defeito escondido de propósito numa arma gigante.",
+      "Um robô imperial sincero até demais.",
+      "O que aconteceu logo antes do episódio IV."
+    ],
+    "deadpool": [
+      "Um mercenário com câncer aceita um tratamento experimental.",
+      "Um rosto deformado e muita raiva.",
+      "Um traje vermelho para esconder o sangue.",
+      "Um anti-herói da Marvel que quebra a quarta parede."
+    ],
+    "homem-aranha-sem-volta-para-casa": [
+      "A identidade de um herói revelada ao mundo.",
+      "Um feitiço pedido a um mago que dá errado.",
+      "Vilões de outros universos aparecem.",
+      "Três heróis de máscara vermelha e azul juntos."
+    ],
+    "o-irlandes": [
+      "Um caminhoneiro que vira matador da máfia.",
+      "Um sindicalista famoso que desapareceu.",
+      "Atores rejuvenescidos por computador.",
+      "Um filme de Scorsese com mais de três horas na Netflix."
+    ],
+    "capita-marvel": [
+      "Uma guerreira alienígena cai na Terra em 1995.",
+      "Um agente da SHIELD jovem e com os dois olhos.",
+      "Um gato que não é bem um gato.",
+      "A heroína mais poderosa do estúdio, com punhos que soltam energia."
+    ],
+    "roma": [
+      "Cidade do México, anos 70.",
+      "Uma família de classe média e sua empregada indígena.",
+      "Um namorado que some ao saber da gravidez.",
+      "Um filme de Alfonso Cuarón da Netflix, em preto e branco."
+    ],
+    "bird-box": [
+      "Um mundo onde as pessoas se matam depois de ver algo.",
+      "Uma mãe e duas crianças descendo um rio.",
+      "Passarinhos engaiolados que avisam do perigo.",
+      "Uma vendada atravessa a floresta, numa produção da Netflix."
+    ],
+    "o-poco": [
+      "Um filme espanhol da Netflix.",
+      "Uma prisão vertical com uma laje de comida.",
+      "Trocar de andar todo mês.",
+      "Uma plataforma de banquete que desce e chega vazia aos de baixo."
+    ],
+    "okja": [
+      "Um filme coreano da Netflix.",
+      "Uma menina nas montanhas da Coreia.",
+      "Uma empresa americana e um concurso de animal perfeito.",
+      "Uma superporca gigante criada para virar comida."
+    ],
+    "os-7-de-chicago": [
+      "Protestos contra a Guerra do Vietnã em 1968.",
+      "Ativistas acusados de conspiração.",
+      "Um réu amordaçado no tribunal.",
+      "Um drama de tribunal de Aaron Sorkin na Netflix."
+    ],
+    "historia-de-um-casamento": [
+      "Um diretor de teatro e uma atriz.",
+      "Nova York contra Los Angeles.",
+      "Advogados que tornam tudo pior.",
+      "Um divórcio na Netflix com Adam Driver e Scarlett Johansson."
+    ],
+    "glass-onion": [
+      "Uma ilha grega de um milionário da tecnologia.",
+      "Um detetive sulista educado.",
+      "Uma caixa de quebra-cabeça como convite.",
+      "O segundo caso do detetive Benoit Blanc."
+    ],
+    "nada-de-novo-no-front": [
+      "Um filme alemão sobre a Primeira Guerra.",
+      "Um estudante se alista com os amigos.",
+      "Uniformes reaproveitados dos mortos.",
+      "O vencedor do Oscar de filme internacional de 2023."
+    ],
+    "a-sociedade-da-neve": [
+      "Um time de rúgbi uruguaio.",
+      "Um avião cai na Cordilheira dos Andes em 1972.",
+      "Ouvir no rádio que as buscas foram encerradas.",
+      "Sobreviver 72 dias no gelo, numa produção espanhola da Netflix."
+    ],
+    "malevola": [
+      "Uma fada protetora de um reino mágico.",
+      "Asas roubadas por um homem que ela amava.",
+      "Um corvo que vira homem.",
+      "Angelina Jolie com chifres pretos."
+    ],
+    "cruella": [
+      "Londres, anos 70, e o mundo do punk.",
+      "Uma órfã talentosa vira assistente de uma baronesa.",
+      "Dois comparsas ladrões.",
+      "A futura vilã dos dálmatas, de cabelo preto e branco."
+    ],
+    "mary-poppins": [
+      "Londres, 1910.",
+      "Um pai banqueiro sem tempo para os filhos.",
+      "Um limpador de chaminés que dança nos telhados.",
+      "Um guarda-chuva voador e \"Supercalifragilisticexpialidoce\"."
+    ],
+    "klaus": [
+      "Uma animação espanhola da Netflix.",
+      "Uma ilha gelada onde duas famílias brigam.",
+      "Um lenhador recluso que faz brinquedos.",
+      "A origem do Papai Noel."
+    ],
+    "pinoquio-del-toro": [
+      "Itália durante o fascismo.",
+      "Um grilo que mora dentro do boneco.",
+      "Morrer e voltar várias vezes.",
+      "Um boneco de madeira cujo nariz cresce, em stop-motion."
+    ],
+    "guerreiras-do-kpop": [
+      "Uma animação da Netflix que virou fenômeno.",
+      "Um trio de cantoras com um segredo.",
+      "Uma banda rival de garotos que são demônios.",
+      "A música \"Golden\" e as Huntrix."
+    ],
+    "encanto": [
+      "Uma casa mágica nas montanhas da Colômbia.",
+      "Cada membro da família tem um poder.",
+      "Não falamos do tio.",
+      "\"Não falamos do Bruno\"."
+    ],
+    "operacao-big-hero": [
+      "Uma cidade que mistura São Francisco e Tóquio.",
+      "Um garoto prodígio entra numa universidade de robótica.",
+      "Microrrobôs controlados pela mente.",
+      "Um robô branco e fofo: Baymax."
+    ],
+    "frozen-2": [
+      "Uma floresta encantada coberta de névoa.",
+      "Espíritos da terra, do fogo, da água e do ar.",
+      "Um cavalo de água no mar escuro.",
+      "\"Minha intuição\" e o boneco Olaf de volta."
+    ],
+    "detona-ralph": [
+      "Um fliperama antigo.",
+      "Um personagem que entra em outros jogos.",
+      "Uma piloto com defeito num jogo de doces.",
+      "O vilão do jogo Conserta Félix."
+    ],
+    "valente": [
+      "Escócia medieval.",
+      "Uma princesa ruiva de cabelo encaracolado.",
+      "Um feitiço que transforma a mãe num urso.",
+      "Uma arqueira que disputa a própria mão no torneio."
+    ],
+    "raya": [
+      "Um reino dividido em cinco tribos.",
+      "Pessoas viram pedra por uma praga.",
+      "Um tatu gigante como montaria.",
+      "Uma guerreira procura a última dragoa."
+    ],
+    "a-princesa-e-o-sapo": [
+      "Nova Orleans, anos 20.",
+      "Uma garçonete que sonha com um restaurante.",
+      "Um feiticeiro vodu e um crocodilo que toca trompete.",
+      "A primeira heroína negra da realeza da Disney."
+    ],
+    "soul": [
+      "Um professor de música de Nova York.",
+      "Cair num bueiro no dia mais importante.",
+      "Uma alma que não quer ir para a Terra.",
+      "Jazz, o Pré-Vida e a alma número 22."
+    ],
+    "luca": [
+      "Uma cidadezinha no litoral da Itália.",
+      "Dois amigos sonham com uma Vespa.",
+      "Molhar-se revela o segredo.",
+      "Monstros marinhos que viram meninos fora d'água."
+    ],
+    "procurando-dory": [
+      "Um ano depois da primeira aventura.",
+      "Um polvo que perdeu um tentáculo.",
+      "Um instituto de vida marinha na Califórnia.",
+      "A peixinha azul esquecida procura os pais."
+    ],
+    "elementos": [
+      "Uma cidade onde moram fogo, água, terra e ar.",
+      "Uma filha que deve herdar a loja da família.",
+      "Um inspetor que chora por qualquer coisa.",
+      "Uma moça de fogo e um rapaz de água."
+    ],
+    "vida-de-inseto": [
+      "Uma colônia que paga tributo a gafanhotos.",
+      "Uma formiga inventora e desastrada.",
+      "Uma trupe de circo de insetos.",
+      "Formigas contra gafanhotos, da Pixar."
+    ],
+    "divertida-mente-2": [
+      "Uma garota de 13 anos num acampamento de hóquei.",
+      "Um alarme de puberdade no painel.",
+      "Uma emoção laranja que planeja tudo.",
+      "Ansiedade, Inveja, Tédio e Vergonha chegam."
+    ],
+    "cinderela": [
+      "Uma órfã que trabalha para a família da madrasta.",
+      "Ratinhos e passarinhos ajudam nos afazeres.",
+      "Uma abóbora vira carruagem.",
+      "Um sapatinho de cristal perdido na escadaria."
+    ],
+    "branca-de-neve": [
+      "O primeiro longa-metragem animado da Disney.",
+      "Uma rainha vaidosa e um caçador.",
+      "Uma casinha na floresta muito bagunçada.",
+      "Uma maçã envenenada e uma turma de homenzinhos mineiros."
+    ],
+    "a-bela-adormecida": [
+      "Três fadas madrinhas de cores diferentes.",
+      "Uma princesa criada numa cabana com outro nome.",
+      "Uma bruxa que vira dragão.",
+      "Picar o dedo numa roca e dormir até o beijo."
+    ],
+    "peter-pan": [
+      "Londres e um quarto de três irmãos.",
+      "Uma sombra que foge.",
+      "Um crocodilo que engoliu um relógio.",
+      "Uma fadinha, o Capitão Gancho e a Terra do Nunca."
+    ],
+    "101-dalmatas": [
+      "Londres, um músico e sua cachorra.",
+      "Filhotes roubados.",
+      "Uma vilã que fuma num carro enorme.",
+      "Cruella de Vil quer um casaco de pele de cachorro."
+    ],
+    "hercules": [
+      "Grécia antiga, deuses e mortais.",
+      "Um bebê roubado do Olimpo.",
+      "Musas que cantam gospel.",
+      "O filho de Zeus treinado por um sátiro."
+    ],
+    "tarzan": [
+      "Uma selva africana e um naufrágio.",
+      "Uma gorila que perde o filhote.",
+      "Uma pesquisadora inglesa e o pai dela.",
+      "Um homem criado por gorilas que se pendura em cipós."
+    ],
+    "pocahontas": [
+      "A América do século 17.",
+      "Colonos ingleses chegam em busca de ouro.",
+      "Uma avó que é um salgueiro.",
+      "Uma filha de chefe indígena e o capitão John Smith."
+    ],
+    "a-dama-e-o-vagabundo": [
+      "Uma cocker spaniel mimada.",
+      "Um bebê novo que muda a casa.",
+      "Dois gatos siameses cantando.",
+      "Dois cachorros dividindo um espaguete e se beijando."
+    ],
+    "homem-aranha-no-aranhaverso": [
+      "Um adolescente do Brooklyn que grafita.",
+      "Um acelerador de partículas abre outros universos.",
+      "Uma versão porco, uma versão noir e uma versão anime.",
+      "Miles Morales vira o herói aracnídeo."
+    ]
+  }
+}

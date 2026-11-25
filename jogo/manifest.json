@@ -1,0 +1,15 @@
+{
+  "name": "Qual é o Filme?",
+  "short_name": "Qual é o Filme?",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b0b0b",
+  "theme_color": "#1a0606",
+  "icons": [
+    {
+      "src": "icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
